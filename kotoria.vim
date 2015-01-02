@@ -65,17 +65,17 @@ hi MoreMsg       ctermfg=white     ctermbg=black
 "  ==============
 "  | Visual Aid |
 "  ==============
-hi MatchParen  ctermfg=white  ctermbg=darkcyan 
-hi Visual      ctermfg=grey   ctermbg=darkblue
-hi VisualNOS   ctermfg=grey   ctermbg=darkblue
-hi NonText     ctermfg=black  ctermbg=black  
-hi Todo        ctermfg=black   ctermbg=yellow 
-hi Underlined  ctermfg=grey    ctermbg=blue  
-hi Error       ctermfg=white   ctermbg=red   
-hi ErrorMsg    ctermfg=white   ctermbg=red   
-hi WarningMsg  ctermfg=black   ctermbg=yellow
-hi Ignore      ctermfg=black   ctermbg=black 
-hi SpecialKey  ctermfg=grey    ctermbg=blue  
+hi MatchParen  ctermfg=white     ctermbg=darkcyan 
+hi Visual      ctermfg=darkblue  ctermbg=grey
+hi VisualNOS   ctermfg=darkblue  ctermbg=grey
+hi NonText     ctermfg=black     ctermbg=black  
+hi Todo        ctermfg=black     ctermbg=yellow 
+hi Underlined  ctermfg=grey      ctermbg=blue  
+hi Error       ctermfg=white     ctermbg=red   
+hi ErrorMsg    ctermfg=white     ctermbg=red   
+hi WarningMsg  ctermfg=black     ctermbg=yellow
+hi Ignore      ctermfg=black     ctermbg=black 
+hi SpecialKey  ctermfg=grey      ctermbg=blue  
 
 "  ==================
 "  | Variable Types |
@@ -111,15 +111,15 @@ hi Debug           ctermfg=white    ctermbg=black
 "  ==========
 "  | C Like |
 "  ==========
-hi PreProc       ctermfg=darkmagenta   ctermbg=black   
-hi Include       ctermfg=darkmagenta   ctermbg=black   
-hi Define        ctermfg=darkmagenta   ctermbg=black   
-hi Macro         ctermfg=darkmagenta   ctermbg=black   
-hi PreCondit     ctermfg=darkmagenta   ctermbg=black   
-hi Type          ctermfg=darkgreen     ctermbg=black   
-hi StorageClass  ctermfg=darkgreen     ctermbg=black   
-hi Structure     ctermfg=white         ctermbg=black   
-hi Typedef       ctermfg=white         ctermbg=black   
+hi PreProc       ctermfg=darkmagenta  ctermbg=black   
+hi Include       ctermfg=darkmagenta  ctermbg=black   
+hi Define        ctermfg=darkmagenta  ctermbg=black   
+hi Macro         ctermfg=darkmagenta  ctermbg=black   
+hi PreCondit     ctermfg=darkmagenta  ctermbg=black   
+hi Type          ctermfg=darkgreen    ctermbg=black   
+hi StorageClass  ctermfg=darkgreen    ctermbg=black   
+hi Structure     ctermfg=darkgreen    ctermbg=black   
+hi Typedef       ctermfg=white        ctermbg=black   
 
 "  ========
 "  | Diff |
