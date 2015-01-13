@@ -70,12 +70,12 @@ hi Visual      ctermfg=darkblue  ctermbg=grey
 hi VisualNOS   ctermfg=darkblue  ctermbg=grey
 hi NonText     ctermfg=black     ctermbg=black  
 hi Todo        ctermfg=black     ctermbg=yellow 
-hi Underlined  ctermfg=grey      ctermbg=blue  
+hi Underlined  ctermfg=cyan      ctermbg=black  
 hi Error       ctermfg=white     ctermbg=red   
 hi ErrorMsg    ctermfg=white     ctermbg=red   
 hi WarningMsg  ctermfg=black     ctermbg=yellow
 hi Ignore      ctermfg=black     ctermbg=black 
-hi SpecialKey  ctermfg=grey      ctermbg=blue  
+hi SpecialKey  ctermfg=cyan      ctermbg=black  
 
 "  ==================
 "  | Variable Types |
