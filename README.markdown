@@ -3,7 +3,7 @@ A dark color scheme that I made for myself.
 I used [Heldraug/Vim-Colorscheme-Template](https://github.com/Heldraug/Vim-Colorscheme-Template) as a guide.
 
 ##Screenshots
-![Python](screenshot.png "Python")
+![Python](screenshots/screenshot.png "Python")
 
 ##Installation
 Copy kotoria.vim to $HOME/.vim/colors
