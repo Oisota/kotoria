@@ -68,7 +68,7 @@ hi MoreMsg       ctermfg=white     ctermbg=black
 hi MatchParen  ctermfg=white     ctermbg=darkcyan 
 hi Visual      ctermfg=darkblue  ctermbg=grey
 hi VisualNOS   ctermfg=darkblue  ctermbg=grey
-hi NonText     ctermfg=black     ctermbg=black  
+hi NonText     ctermfg=darkgrey  ctermbg=black  
 hi Todo        ctermfg=black     ctermbg=yellow 
 hi Underlined  ctermfg=cyan      ctermbg=black  
 hi Error       ctermfg=white     ctermbg=red   
