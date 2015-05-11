@@ -1,6 +1,6 @@
 "Custom Vim Color Scheme 
 " Maintainer: Derek Morey <dman6505@gmail.com>
-"Last Change: 2014 December 31
+"Last Change: 2015 May 11
 
 set background=dark
 hi clear
