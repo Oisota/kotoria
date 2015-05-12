@@ -82,13 +82,13 @@ hi SpecialKey  ctermfg=cyan      ctermbg=black        guifg=cyan      guibg=blac
 "  ==================
 "  | Variable Types |
 "  ==================
-hi Constant         ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi String           ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi StringDelimiter  ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi Character        ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi Number           ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi Boolean          ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
-hi Float            ctermfg=brown     ctermbg=black       guifg=brown     guibg=black   
+hi Constant         ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi String           ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi StringDelimiter  ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi Character        ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi Number           ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi Boolean          ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
+hi Float            ctermfg=brown     ctermbg=black       guifg=yellow     guibg=black   
 hi Identifier       ctermfg=white     ctermbg=black       guifg=white     guibg=black   
 hi Function         ctermfg=darkcyan  ctermbg=black       guifg=darkcyan  guibg=black  
 
