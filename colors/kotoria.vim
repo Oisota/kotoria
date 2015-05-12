@@ -22,7 +22,7 @@ let g:colors_name = "kotoria"
 "  | Editor Settings |
 "  ===================
 hi Normal         ctermfg=grey      ctermbg=black      guifg=grey      guibg=black
-hi Cursor         ctermfg=grey      ctermbg=black      guifg=grey      guibg=black
+hi Cursor         ctermfg=grey      ctermbg=black      guifg=black     guibg=cyan
 hi CursorLine     ctermfg=grey      ctermbg=black      guifg=grey      guibg=black
 hi LineNr         ctermfg=darkgrey  ctermbg=black      guifg=darkgrey  guibg=black   
 hi CursorLineNR   ctermfg=white     ctermbg=black      guifg=white     guibg=black
