@@ -1,12 +1,13 @@
-#Kotoria
+Kotoria
+=======
 A dark color scheme that I made for myself.
 I used [Heldraug/Vim-Colorscheme-Template](https://github.com/Heldraug/Vim-Colorscheme-Template) as a guide.
 
-##Screenshots
+### Screenshots
 ![Python](screenshots/python_scrot.png "Python")
 ![C](screenshots/c_scrot.png "C")
 
-##Installation
+### Installation
 Copy kotoria.vim to $HOME/.vim/colors
 
 Or use a vim plugin manager:
